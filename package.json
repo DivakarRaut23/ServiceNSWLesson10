@@ -5,13 +5,14 @@
   "main": "File.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .\\src\\ConsoleApp.js",
     "generate": "node .\\src\\Generate.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/LukeParkerTAFE/ServiceNSWLesson9.git"
   },
-  "author": "Luke Parker",
+  "author": "Divakar Raut",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/LukeParkerTAFE/ServiceNSWLesson9/issues"
